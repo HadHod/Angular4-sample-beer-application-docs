@@ -46,4 +46,4 @@ Przykładowy template:
 </div>
 ```
 
-Wybieramy [API](https://github.com/toddmotto/public-apis)!
+Wybieramy [API](https://github.com/toddmotto/public-apis)! ja wybrałem: [Piwa](https://punkapi.com/)

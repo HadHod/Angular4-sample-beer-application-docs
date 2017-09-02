@@ -14,7 +14,7 @@ Na konkretny wybrany tag przechodzimy poleceniem ```git checkout [nazwa tagu]```
 * init (inicjalny projekt, który się stworzy po wpisaniu komendy ```ng new [nazwa projektu]```)
 * v1 (Material Designe)
 * v2 (Modele)
-* v3 ()
+* v3 (Service)
 * v4 ()
 * v5 ()
 
