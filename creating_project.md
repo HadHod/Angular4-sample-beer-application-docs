@@ -1,4 +1,4 @@
-# Tworzymy pierwszy projekt
+# Tworzymy pierwszy projekt (tag: init)
 
 1. Instalujemy angular-cli: ```npm install -g @angular/cli```
 
