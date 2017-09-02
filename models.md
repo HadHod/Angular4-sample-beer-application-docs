@@ -1,4 +1,4 @@
-# Model (tag: v3)
+# Model (tag: v2)
 
 Generujemy model poleceniem: ```ng g class app.model``` (na razie dużo nie oczekujemy). Kod naszego modelu powinien wyglądać mniej więcej tak (nie po wygenerowaniu - sami piszemy):
 ```ts
