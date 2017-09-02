@@ -1,0 +1,3 @@
+# Dodatkowe zadania
+
+1. Co drugi element na liście ma mieć nadaną ...

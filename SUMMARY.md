@@ -8,3 +8,5 @@
 * [3. Projektujemy modele](models.md)
 * [4. Service do API](service_and_show_data.md)
 * [5. Wyświetlanie listy](data_list.md)
+* [6. Nowa podstrona](subpage.md)
+* [7. Zadania dodatkowe](additional_excercises.md)
