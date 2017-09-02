@@ -1,4 +1,4 @@
-# Ścieżka TS+NG: Angular4
+# Ścieżka TS+NG: Angular 4
 
 ##### ![](/assets/solwit_logo.png)
 

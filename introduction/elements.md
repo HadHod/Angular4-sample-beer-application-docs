@@ -1,4 +1,4 @@
-# Elementy Frameworku Angular 4
+# Elementy Frameworka Angular 4
 
 * components
 * services
