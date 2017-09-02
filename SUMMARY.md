@@ -7,3 +7,4 @@
 * [2. Dodajemy pierwsze zależności i przyglądamy się aplikacji](adding_md_new_template.md)
 * [3. Projektujemy modele](models.md)
 * [4. Service do API](service_and_show_data.md)
+* [5. Wyświetlanie listy](data_list.md)

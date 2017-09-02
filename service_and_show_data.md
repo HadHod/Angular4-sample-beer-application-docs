@@ -66,7 +66,7 @@ import { HttpModule } from '@angular/http';
 ```
 a potem sam moduł ```HttpModule``` do ```imports``` i ```providers```
 
-Na koniec połączamy nasz ```service``` do komponentu:
+Na koniec podłączamy nasz ```service``` do komponentu:
 ```ts
 import { Component } from '@angular/core';
 
