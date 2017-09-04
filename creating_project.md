@@ -15,8 +15,8 @@ Na konkretny wybrany tag przechodzimy poleceniem ```git checkout [nazwa tagu]```
 * v1 (Material Designe)
 * v2 (Modele)
 * v3 (Service)
-* v4 ()
-* v5 ()
+* v4 (Wyświetlanie listy)
+* v5 (Nowa podstrona z detalami)
 
 ### Ściąga do [Angular-cli](https://github.com/angular/angular-cli/wiki)
 

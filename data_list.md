@@ -34,7 +34,7 @@ export class AppComponent implements OnInit { // <- UWAGA dodajemy implements On
 }
 ```
 
-Teraz w konsoli powinna pokazać się lista naszych danych. Teraz gdy mamy dane w zmiennej możemy ją przekazać do ```template``` i ładnie wyświetlić. Przed tym dodajemy moduły ```MdProgressSpinnerModule``` i ```MdListModule``` do importów. Teraz możemy wyświetlić listę naszych piwerek.
+Teraz w konsoli powinna pokazać się lista naszych danych. Gdy mamy dane w zmiennej możemy ją przekazać do ```template``` i ładnie wyświetlić. Przed tym dodajemy moduły ```MdProgressSpinnerModule``` i ```MdListModule``` do importów. Teraz możemy wyświetlić listę naszych piwerek.
 
 Jak możemy bindować zmienne w templacie:
 ```html

@@ -34,7 +34,7 @@ private extractData (res: Response): any {
 }
 ```
 
-Dodajemy "mappery" - funkcje dzięki którym będziemy mapować dane przychodzące z serwera:
+Dodajemy "mappery" - funkcje, dzięki którym będziemy mapować dane przychodzące z serwera:
 ```ts
 private mapBeer = (response: any) => new Beer(<IBeerRaw> response);
 
