@@ -66,6 +66,13 @@ public getRandomBeer () {
 }
 ```
 
+i URLe:
+```ts
+const BASE_BEER_URL: string = 'https://api.punkapi.com/v2/beers';
+const BEER_URL: string = BASE_BEER_URL + '?beer_name=';
+const RANDOM_BEER_URL: string = BASE_BEER_URL + '/random';
+```
+
 Do ```src/app/app.module.ts``` dodajemy ```HttpModule```:
 najpierw import:
 ```ts
