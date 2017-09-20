@@ -34,6 +34,13 @@ private extractData (res: Response): any {
 }
 ```
 
+Dodajemy importy:
+```ts
+import { Http, Headers, RequestOptions, Response } from '@angular/http';
+import { Observable } from 'rxjs';
+import 'rxjs/add/operator/map';
+```
+
 Dodajemy "mappery" - funkcje, dzięki którym będziemy mapować dane przychodzące z serwera:
 ```ts
 private mapBeer = (response: any) => new Beer(<IBeerRaw> response);
