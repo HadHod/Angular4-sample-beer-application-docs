@@ -14,7 +14,7 @@ import { BeerService } from './app.service';
     styleUrls: ['./app.component.css'],
     providers: [BeerService]
 })
-export class AppComponent implements OnInit { // <- UWAGA dodajemy implements OnInit
+export class AppComponent implements OnInit { // <- UWAGA dodajemy "implements OnInit"
     public beers: Beer[];
 
     public isInitialized: boolean = false;

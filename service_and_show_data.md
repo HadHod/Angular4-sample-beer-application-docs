@@ -94,7 +94,7 @@ import { BeerService } from './app.service';
     styleUrls: ['./app.component.css'],
     providers: [BeerService] // musimy dodać serwis do providerów
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
     public beers: Beer[]; // tworzymy zmienną, która będzie przechowywała nasze pobrane piwa
 
     public isInitialized: boolean = false; // zmienna określająca czy pobraliśmy wszystkie dane potrzebne do wyświetlenia strony
