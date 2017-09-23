@@ -31,3 +31,23 @@ Na konkretny wybrany tag przechodzimy poleceniem ```git checkout [nazwa tagu]```
 | Interface | ng g interface my-new-interface |
 | Enum | ng g enum my-new-enum |
 | Module | ng g module my-module |
+
+### Brakujący routing
+
+plik ```/src/app/app-routing.module.ts```
+```ts
+import { NgModule } from '@angular/core';
+import { Routes, RouterModule } from '@angular/router';
+
+const routes: Routes = [];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+```
+oraz import do głównego modułu:
+```ts
+import { AppRoutingModule } from './app-routing.module';
+```
